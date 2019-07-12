@@ -25,6 +25,7 @@
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
+    "fstream": ">=1.0.12",
     "lodash.mergewith": ">=4.6.2",
     "lodash": ">=4.17.13",
     "@angular-devkit/build-angular": "~0.13.0",
