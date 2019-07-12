@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "lodash.mergewith": ">=4.6.2",
+    "lodash": ">=4.17.13",
     "@angular-devkit/build-angular": "~0.13.0",
     "@angular/cli": "~7.3.8",
     "@angular/compiler-cli": "~7.2.0",
