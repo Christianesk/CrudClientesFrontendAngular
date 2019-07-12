@@ -25,6 +25,7 @@
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
+    "tar": ">=2.2.2",
     "fstream": ">=1.0.12",
     "lodash.mergewith": ">=4.6.2",
     "lodash": ">=4.17.13",
